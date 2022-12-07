@@ -26,7 +26,7 @@ El código puede ser descargado mediante GitHub.
     
 # Diagrama de clases
 
-![]
+![https://github.com/RafaelPradillo/Practica_progra-funcional/blob/main/practica/Mi%2Bprimer%2Btablero%2B(1)%2B(3).xml]
 
 ## License
 Copyright [2022] [Pablo de la Cruz Rodríguez y Rafael Pradillo López-Ortum] 
